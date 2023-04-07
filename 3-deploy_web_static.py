@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Fabscript to distribute an archive to web server-2-do_deploy_web_static.py
+# Fabscript to distribute an archive to web server.->2-do_deploy_web_static.py
 import os.path
 from datetime import datetime
 from fabric.api import env

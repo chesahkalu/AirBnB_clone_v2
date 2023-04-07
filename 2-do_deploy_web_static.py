@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Fabscript to distributes an archive to a web server.Based on 1-pack_web_static.py
+# Fabscript to distributes an archive to a web server.->1-pack_web_static.py
 import os.path
 from fabric.api import env
 from fabric.api import put
