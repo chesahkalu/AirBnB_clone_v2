@@ -45,7 +45,7 @@ printf %s "server {
 
     location /hbnb_static {
         alias /data/web_static/current;
-        index index.html index.htm index.nginx-debian.html;
+        index index.html index.htm index.nginx-debian.html 8-index.html;
     }
 
     location /redirect_me {
